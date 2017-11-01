@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Aurochses.Mvc.Helpers
+namespace Aurochses.AspNetCore.Mvc.Helpers
 {
     /// <summary>
     /// Class ControllerHelpers.

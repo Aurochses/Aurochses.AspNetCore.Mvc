@@ -1,11 +1,12 @@
-# Aurochses Mvc
+# Aurochses AspNetCore Mvc
 
-Aurochses Mvc is a library for Mvc.
+Aurochses AspNetCore Mvc is a library for AspNetCore Mvc.
 
 ## NuGet
 
-[![NuGet](https://img.shields.io/nuget/v/Aurochses.Mvc.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Mvc)
-[![NuGet](https://img.shields.io/nuget/dt/Aurochses.Mvc.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Mvc)
+[![NuGet](https://img.shields.io/nuget/v/Aurochses.AspNetCore.Mvc.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Mvc)
+[![NuGet](https://img.shields.io/nuget/dt/Aurochses.AspNetCore.Mvc.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Mvc)
+[![NuGet Status](http://nugetstatus.com/Aurochses.AspNetCore.Mvc.png)](http://nugetstatus.com/packages/Aurochses.AspNetCore.Mvc)
 
 ## Builds
 
