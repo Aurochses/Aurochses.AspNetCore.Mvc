@@ -1,10 +1,10 @@
-﻿using Aurochses.Mvc.Helpers;
-using Aurochses.Testing.Mvc;
+﻿using Aurochses.AspNetCore.Mvc.Helpers;
+using Aurochses.Xunit.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 using Xunit;
 
-namespace Aurochses.Mvc.Tests.Helpers
+namespace Aurochses.AspNetCore.Mvc.Tests.Helpers
 {
     public class ControllerHelpersTests
     {
