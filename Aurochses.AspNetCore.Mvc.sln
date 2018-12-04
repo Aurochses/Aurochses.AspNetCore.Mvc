@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{992DECE7-0FA0-485F-9CCC-F040CB09E93C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{38809DFE-2D8E-4809-9BB9-74820C3F1F40}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9C068101-2238-4584-B0A4-57760D0DD033}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CF62D716-7197-4D58-9B0E-F8EA5BEA5A0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurochses.AspNetCore.Mvc", "src\Aurochses.AspNetCore.Mvc\Aurochses.AspNetCore.Mvc.csproj", "{2A2478C4-55D6-44A5-977D-459073B3909A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurochses.AspNetCore.Mvc", "src\Aurochses.AspNetCore.Mvc\Aurochses.AspNetCore.Mvc.csproj", "{A8074EC4-649F-45E5-9A10-076B6C896D4D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurochses.AspNetCore.Mvc.Tests", "test\Aurochses.AspNetCore.Mvc.Tests\Aurochses.AspNetCore.Mvc.Tests.csproj", "{150A6432-D16D-4BEC-A434-21692109660E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurochses.AspNetCore.Mvc.Tests", "test\Aurochses.AspNetCore.Mvc.Tests\Aurochses.AspNetCore.Mvc.Tests.csproj", "{9E840172-D9E5-4AFF-866B-0A19969D36B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,23 +17,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A2478C4-55D6-44A5-977D-459073B3909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A2478C4-55D6-44A5-977D-459073B3909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A2478C4-55D6-44A5-977D-459073B3909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A2478C4-55D6-44A5-977D-459073B3909A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{150A6432-D16D-4BEC-A434-21692109660E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{150A6432-D16D-4BEC-A434-21692109660E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{150A6432-D16D-4BEC-A434-21692109660E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{150A6432-D16D-4BEC-A434-21692109660E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8074EC4-649F-45E5-9A10-076B6C896D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8074EC4-649F-45E5-9A10-076B6C896D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8074EC4-649F-45E5-9A10-076B6C896D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8074EC4-649F-45E5-9A10-076B6C896D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E840172-D9E5-4AFF-866B-0A19969D36B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E840172-D9E5-4AFF-866B-0A19969D36B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E840172-D9E5-4AFF-866B-0A19969D36B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E840172-D9E5-4AFF-866B-0A19969D36B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2A2478C4-55D6-44A5-977D-459073B3909A} = {992DECE7-0FA0-485F-9CCC-F040CB09E93C}
-		{150A6432-D16D-4BEC-A434-21692109660E} = {9C068101-2238-4584-B0A4-57760D0DD033}
+		{A8074EC4-649F-45E5-9A10-076B6C896D4D} = {38809DFE-2D8E-4809-9BB9-74820C3F1F40}
+		{9E840172-D9E5-4AFF-866B-0A19969D36B8} = {CF62D716-7197-4D58-9B0E-F8EA5BEA5A0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E27D61B8-5809-4288-B92C-0B37342D3B24}
+		SolutionGuid = {C79B403E-BA44-468F-BC43-81E815F0DB4C}
 	EndGlobalSection
 EndGlobal
